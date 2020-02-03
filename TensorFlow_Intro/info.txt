@@ -3,3 +3,8 @@
 Tensorflow Basics in python on Jupyter notebook. 
 
 File is to introduce folder
+
+The file also use:
+Keras
+Numpy
+Matplotlib
